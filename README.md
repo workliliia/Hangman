@@ -72,9 +72,9 @@ The script includes several TODOs that you can implement to enhance the game:
 
 Feel free to contribute to this project by forking the repository and submitting pull requests. You can also open issues for any bugs or feature requests.
 
-## License
+## Author Rights
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project was created as part of a course on Udemy. All rights to the original content belong to the creator - Dr. Angela Yu (https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/). This is a personal learning project developed to enhance my skills and understanding.
 
 ---
 
