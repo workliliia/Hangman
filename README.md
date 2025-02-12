@@ -3,10 +3,12 @@
 
 Welcome to the **Hangman Game**! This is a simple Python implementation of the classic word-guessing game. The goal is to guess the hidden word before you run out of lives. Each incorrect guess brings you closer to losing, so choose your letters wisely!
 
-<i>Example of how the program works</i>
+<i>Example of how the program works:</i>
+<p></p>
 <img width="468" alt="Screenshot 2025-02-12 at 22 03 20" src="https://github.com/user-attachments/assets/a888cd39-f18d-4223-8646-cc7c23762caa" />
-
-<i>Example of how the program ends</i>
+<p></p>
+<i>Example of how the program ends:</i>
+<p></p>
 <img width="383" alt="Screenshot 2025-02-12 at 22 04 06" src="https://github.com/user-attachments/assets/fb34c316-8de2-4c64-9a05-f40851e82b79" />
 
 ## How to Play
