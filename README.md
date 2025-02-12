@@ -28,7 +28,7 @@ To run this game, you need to have Python installed on your system. You can down
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/hangman-game.git](https://github.com/workliliia/Hangman.git
+   git clone https://github.com/workliliia/Hangman.git
    cd hangman-game
    ```
 
